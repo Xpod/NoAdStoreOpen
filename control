@@ -1,0 +1,10 @@
+Package: com.xpod.noadstoreopen
+Name: NoAdstoreOpen
+Depends: mobilesubstrate
+Conflict: com.bensge.noadstoreopen
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Xpod <xpod@timonolsthoorn.nl>
+Author: Xpod <xpod@timonolsthoorn.nl>
+Section: Tweaks
